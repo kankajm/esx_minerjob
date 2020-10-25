@@ -17,7 +17,7 @@ Config.SellX = -621.43
 Config.SellY = -230.4
 Config.SellZ = 37.05
 
-Config.DiamondPrice = 600
-Config.GoldPrice = 100
-Config.IronPrice = 20
-Config.CopperPrice = 10
+Config.DiamondPrice = 300
+Config.GoldPrice = 10
+Config.IronPrice = 5
+Config.CopperPrice = 1
